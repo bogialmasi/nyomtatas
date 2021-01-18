@@ -6,6 +6,7 @@ body{
   background-position: center;
   height: 250px;
   padding-top: 75px;
+  background-image: url(../web/drukletters.jpg)
 }
 
 .bg-fej h1{
@@ -42,3 +43,10 @@ a {
   visibility:hidden;
 }
 
+#szelesseg{
+  margin: 0px auto 15px auto;
+}
+
+#magassag{
+  margin: 0px auto 15px auto;
+}
